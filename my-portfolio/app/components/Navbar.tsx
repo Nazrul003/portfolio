@@ -51,7 +51,7 @@ export default function Navbar() {
 
   return (
     <>
-      <div className='hidden md:flex flex-row justify-between sticky top-0 z-50 bg-[#18191a]/50 backdrop-blur-md'>
+      <div className='hidden md:flex flex-row justify-between sticky top-0 z-50 bg-[#18191a]/50 backdrop-blur-md '>
         <div className='relative flex justify-center items-center'>
           <h2 className='absolute top-[18px] -right-[82px] text-white text-3xl font-bold'>
             N
@@ -79,7 +79,7 @@ export default function Navbar() {
         </div>
       </div>
 
-      <div className="md:hidden sticky top-0  flex flex-row justify-between z-50 bg-[#18191a] p-2">
+      <div className="md:hidden sticky top-0  flex flex-row justify-between z-50 bg-[#18191a]/50 backdrop-blur-md p-2">
         <div className='relative flex justify-center items-center'>
           <h2 className='absolute -top-0 -right-[50px] text-white text-lg font-bold'>
             N
