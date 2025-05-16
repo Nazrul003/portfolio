@@ -27,15 +27,15 @@ const projects = [
       name: "Developer Portfolio",
       description: "A personal portfolio showcasing skills, projects, and blogs with smooth animations.",
       liveLink: "#",
-      githubLink: "https://github.com/Nazrul003/nazrul-portfolio",
+      githubLink: "https://github.com/Nazrul003/portfolio",
       image: "/images/dev.png",
       techStack: ["NextJs", "TypeScript", "Reactjs", "Tailwind", "Framer-motion"]
     },
     {
       name: "Resume Builder",
       description: "A sleekly designed resume builder with real-time preview, customizable templates, and seamless PDF export",
-      liveLink: "https://resume-builder-xai8-juy6dsi57-mohammad-nazrul-islams-projects.vercel.app/",
-      githubLink: "https://github.com/Nazrul003/Resume-builder/tree/main/Resume%20Builder/resume-builder",
+      liveLink: "https://resume-builder-mhz1.vercel.app/",
+      githubLink: "https://github.com/Nazrul003/Resume-builder",
       image: "/images/resume.png",
       techStack: ["Reactjs", "CSS3", "JavaScript"],
     },
