@@ -1,6 +1,6 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
-import { cn } from '/DSA + Web Dev/Web Development/React/NextJs/my-portfolio/lib/utils'
+import { cn } from '../../lib/utils'
 import { TextGenerateEffect } from './ui/text-generate-effect'
 import { FaFileAlt } from "react-icons/fa";
 import { FaLocationArrow } from "react-icons/fa";
